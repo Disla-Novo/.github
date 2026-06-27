@@ -1,6 +1,6 @@
 # Disla-Novo
 
-**Building robust developer tools.**
+**Building robust tools for hardware automation and additive manufacturing.**
 
 Welcome to the official GitHub organization for Disla-Novo. This space is dedicated to developing high-performance, local-first software architectures, custom domain-specific languages, and workflow automation tools.
 
