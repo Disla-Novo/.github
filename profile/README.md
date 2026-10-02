@@ -7,7 +7,7 @@ Welcome to the official GitHub organization for Disla-Novo. This space is dedica
 ---
 
 ## Featured Projects
-> Bellerophon Grasshopper Plugin Coming soon
+> _Bellerophon's Bridge: Grasshopper Plugin Coming Soon_
 ### The Dimidium Ecosystem
 
 <table>
